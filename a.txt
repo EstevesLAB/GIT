@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Esta linha foi modificada no ramo MASTER
+=======
+esta linha foi modificada no ramo TESTE
+>>>>>>> teste
